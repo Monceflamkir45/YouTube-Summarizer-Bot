@@ -10,5 +10,5 @@ class Ai:
     GROQ_API_KEY = os.environ.get('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')
 
 class Database:
-    REDIS_URI = os.environ.get('REDIS_URI')
-    REDIS_PASSWORD = os.environ.get('REDIS_PASSWORD')
+    REDIS_URI = os.environ.get('redis-13156.c321.us-east-1-2.ec2.redns.redis-cloud.com:13156')
+    REDIS_PASSWORD = os.environ.get('bE4PBM0CPallkb7VlWMrH0qudolSEpmi')
